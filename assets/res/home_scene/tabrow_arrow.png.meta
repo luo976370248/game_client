@@ -1,0 +1,30 @@
+{
+  "ver": "1.0.0",
+  "uuid": "096e28f6-ce8f-4614-b77f-6aaaba4b9162",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "subMetas": {
+    "tabrow_arrow": {
+      "ver": "1.0.3",
+      "uuid": "29e1aaa2-c7c9-42fe-8b17-b1402741595e",
+      "rawTextureUuid": "096e28f6-ce8f-4614-b77f-6aaaba4b9162",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 19,
+      "height": 34,
+      "rawWidth": 19,
+      "rawHeight": 34,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}
